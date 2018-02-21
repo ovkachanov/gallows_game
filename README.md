@@ -17,9 +17,7 @@
 
 3. Для запуска игры необходимо в [командой строке](https://ru.wikipedia.org/wiki/Cmd.exe) (на Windows) или [в терминале](https://ru.wikipedia.org/wiki/Командная_оболочка_UNIX) (на ОС семейства Unix) набрать команду `ruby <путь к исполняемому файлу>/viselitsa.rb`.
 
-
-Автор учебного приложения [Oleg Kachanov](https://github.com/ovkachanov)
-
-
 ### Добавление дополнительных слов в игру
  Для добавления новых слов, необходимо добавить их в файл  `/data/words.txt `.
+ 
+ Автор учебного приложения [Oleg Kachanov](https://github.com/ovkachanov)
