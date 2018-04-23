@@ -1,3 +1,5 @@
+require 'unicode_utils'
+
 if Gem.win_platform?
   Encoding.default_external = Encoding.find(Encoding.locale_charmap)
   Encoding.default_internal = __ENCODING__
@@ -23,3 +25,4 @@ while game.status == 0
 end
 
 printer.print_status(game)
+s
